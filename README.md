@@ -7,7 +7,7 @@
 </a>
 <br><br>
 <i>These languages do not reflect my most used languages anymore.<br>
-I am only displaying these stats for fun, as most of my code of the past recent years lies outside GitHub</i> 🚀✨
+I am only displaying these stats for fun, as most of my code in recent years lies outside GitHub</i> 🚀✨
 <br>
 
 
