@@ -6,7 +6,8 @@
   <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=deb0ch&theme=radical&layout=compact&langs_count=8&card_width=310&exclude_repo=&hide=&size_weight=0.5&count_weight=0.5" />
 </a>
 <br><br>
-<i>These languages do not reflect my most used languages anymore. I am displaying these stats for fun, but most of my code of the past recent years lies outside GitHub</i> 🚀✨
+<i>These languages do not reflect my most used languages anymore.<br>
+I am only displaying these stats for fun, as most of my code of the past recent years lies outside GitHub</i> 🚀✨
 <br>
 
 
