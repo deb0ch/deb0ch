@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=deb0ch&show_icons=true&theme=radical" /><!-- &show=prs_merged,prs_merged_percentage -->
+  <img height=190 align=center src="https://github-readme-stats.vercel.app/api?username=deb0ch&show_icons=true&theme=radical" /><!-- &show=prs_merged,prs_merged_percentage -->
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=deb0ch&theme=radical&layout=compact&langs_count=6&card_width=320&exclude_repo=&hide=" />
+  <img height=190 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=deb0ch&theme=radical&layout=compact&langs_count=6&card_width=320&exclude_repo=&hide=" />
 </a>
 <br><br>
 <i>* I am displaying these stats for fun, but most of my code of the past recent years lies outside GitHub</i>
